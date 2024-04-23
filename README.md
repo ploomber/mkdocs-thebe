@@ -3,6 +3,12 @@
 MkDocs plugin to turn Python code snippets into interactive examples via
 [thebe](https://github.com/executablebooks/thebe)
 
+## Installation
+
+```sh
+pip install mkdocs-thebe
+```
+
 ## Usage
 
 ```yaml
