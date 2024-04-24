@@ -18,3 +18,10 @@ plugins:
       # endpoint to the server that manages Python processes
       baseUrl: https://endpoint.domain.io
 ```
+
+```yaml
+markdown_extensions:
+  - pymdownx.highlight:
+      # required!
+      pygments_lang_class: true
+```
